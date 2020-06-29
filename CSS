@@ -1,0 +1,102 @@
+CSS
+
+
+* {
+  font-family: Helvetica LT Std, Black Condensed;
+}
+
+.global{
+  width: 610px;
+  min-height: 700px;    
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  border:2px solid 	#eaeaea;
+  }
+
+h1{
+  font-size: 15px;
+  color:	#eaeaea;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 15px;
+}
+
+.topo{
+ font-size: 15px;
+ font-weight: bold;
+ text-align: left;
+ margin-left: 3px;
+ border:2px solid 	#e40090;
+ width: 599px;
+ min-height:100px;    
+}
+
+.p1{
+  font-size: 15px;
+  color: 	#e40090;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 40px;
+}
+
+.pai{
+  display: flex;
+}
+
+.CONTEUDO{
+ font-size: 15px;
+ font-weight: bold;
+ text-align: left;
+ margin-left: 3px;
+ border:2px solid 	#98dac6;
+ width: 350px;
+ min-height:400px; 
+ margin-top: 3px;
+ margin-bottom: 3px;
+}
+
+.h2{
+  font-size: 12px;
+  color: 		#98dac6;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 180px;
+  
+}
+
+.MENU > .h2 {
+  color: 		#8dc9e8;
+}
+
+.MENU{
+ font-size: 20px;
+ font-weight: bold;
+ text-align: left;
+ margin-left: 3px;
+ margin-right: 3px;
+ border:2px solid 	#8dc9e8;
+ width: 250px;
+ min-height:400px; 
+ margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.rodape{
+ font-size: 15px;
+ font-weight: bold;
+ text-align: left;
+ margin-left: 3px;
+ border:2px solid 	#ff7d00;
+ width: 599px;
+ min-height:150px;
+  margin-bottom: 3px;
+}
+
+.rodape > .p1 {
+  color: 		#ff7d00;
+   margin-top: 65px;
+}
